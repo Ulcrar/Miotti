@@ -1,2 +1,2 @@
-# Miotti
-Token list contain Miotti (RYAN)
+# Minotti
+Token list containing Minotti (RYAN) token
