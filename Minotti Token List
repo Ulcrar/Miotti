@@ -1,0 +1,35 @@
+{
+  "name": "Minotti Token List",
+  "logoURI": "ipfs://69USNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMM",
+  "keywords": [
+    "Minotti",
+    "Token",
+    "List",
+    "RYAN"
+  ],
+  "tags": {
+    "Minotti": {
+      "name": "Minotti",
+      "description": "Token named after Ryan Miotti"
+    }
+  },
+  "timestamp": "2021-11-12T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x348FdB726216e95B36eA275Cf308783Df2f39D47",
+      "symbol": "RYAN",
+      "name": "Minotti",
+      "decimals": 18,
+      "logoURI": "ipfs://69USNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMM",
+      "tags": [
+        "Minotti"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
